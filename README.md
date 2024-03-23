@@ -6,4 +6,4 @@ same.
 
 Configuration is simple. Just make sure you're logged into the github cli (which
 you probably already are), npm install packages and update the .env file with
-your api key and org name and you're good to go!
+your api key and org name and npm start to run.
