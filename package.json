@@ -1,7 +1,7 @@
 {
   "name": "clone-repositories",
   "version": "1.0.0",
-  "description": "",
+  "description": "A simple tool to clone all repositories from a GitHub organization",
   "main": "src/app.js",
   "scripts": {
     "start": "node src/app.js"
